@@ -19,27 +19,6 @@ The Simple Calculator program demonstrates basic C++ concepts such as class defi
 - `calculator.h`: The header file containing the `Calculator` class definition.
 - `calculator.cpp`: The source file implementing the `Calculator` class methods.
 
-## Getting Started
-
-### Prerequisites
-
-- A C++ compiler, such as g++.
-
-### Building the Program
-
-1. Clone the repository or download the source code.
-2. Open a terminal and navigate to the directory containing the source files.
-3. Compile the program using the following command:
-
-    ```sh
-    g++ -o calculator main.cpp calculator.cpp
-    ```
-
-4. Run the executable:
-
-    ```sh
-    ./calculator
-    ```
 
 ### Usage
 
@@ -50,10 +29,6 @@ The Simple Calculator program demonstrates basic C++ concepts such as class defi
 5. The result of the operation will be displayed.
 6. Choose whether to perform another calculation by entering `y` (yes) or `n` (no).
 
-### Example
-
-```sh
-Please enter your first number:
 10
 Please enter your second number:
 5
